@@ -52,9 +52,11 @@ homebrew_cask_apps:
   - visual-studio-code
   - iterm2
   - vlc
-  - atom
   - pycharm-ce
-  - evernote
+  - notion
+  - podman-desktop
+  - minikube
+  - virtualbox
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
